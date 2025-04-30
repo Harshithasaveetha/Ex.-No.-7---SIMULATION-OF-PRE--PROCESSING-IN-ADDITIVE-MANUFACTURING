@@ -44,7 +44,7 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
-![Screenshot 2025-04-24 154944](https://github.com/user-attachments/assets/e7c9b385-892a-48a4-affc-87350aecabb5)
+![Screenshot 2025-04-24 154944](https://github.com/user-attachments/assets/82733765-2ccc-4de0-8d47-2d7e3f66fb10)
 
 ### Name:Harshitha D
 ### Register Number:212224040110
